@@ -1,0 +1,768 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="author" content="Hyeseung Kim" />
+    <meta name="description" content="Human Interface Final Project">
+    <link rel="icon" type="image/png" href="images/favicon1.png">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Document title -->
+    <title>노랑진수선시장 | Human Interface Final | 김혜승</title>
+    <!-- Stylesheets & Fonts -->
+    <link href="css/plugins.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Body Inner -->
+    <div class="body-inner">
+        <!-- Header -->
+        <header id="header" data-transparent="true" data-fullwidth="true" class="dark submenu-light">
+            <div class="header-inner">
+                <div class="container">
+                    <!--Logo-->
+                    <div id="logo">
+                        <a href="index.html">
+                            <span class="logo-default"><img src="images/logo_img.png" style="max-width: 53px;margin-right: 12px;">노랑진수선시장</span>
+                            <span class="logo-dark">노랑진수선시장</span>
+                        </a>
+                    </div>
+                    <!--End: Logo-->
+                </div>
+            </div>
+        </header>
+        <!-- end: Header -->
+        <!-- Inspiro Slider -->
+        <div id="slider" class="inspiro-slider slider-fullscreen dots-creative" data-fade="true">
+            <!-- Slide 1 -->
+            <div class="slide kenburns" data-bg-image="images/tailorimage.jpeg">
+                <div class="bg-overlay"></div>
+                <div class="container">
+                    <div class="slide-captions text-center text-light">
+                        <!-- Captions -->
+                        <h1 data-caption-animate="zoom-out">지난 시간에</h1>
+                        <p>중간평가로 동네수선경험 개선</p>
+                        <div><a href="../download/humaninterface_mid.pdf" class="btn btn-primary scroll-to">다운로드</a></div>
+                        </span>
+                        <!-- end: Captions -->
+                    </div>
+                </div>
+            </div>
+            <!-- end: Slide 1 -->
+            <!-- Slide 2 -->
+            <div class="slide" data-bg-video="video/tailor.mp4">
+                <div class="bg-overlay"></div>
+                <div class="container">
+                    <div class="slide-captions text-start text-light">
+                        <!-- Captions -->
+                        <h1>수선을 신선하게 바로</h1>
+                        <p class="text-small">쇼핑몰에서 바로 수선까지 한번에 노랑진수선시장에서 신선하고 편하게 이용해보세요.</p>
+                        <div><a href="#welcome1" class="btn btn-primary scroll-to">서비스 자세히 알아보기</a></div>
+                        <!-- end: Captions -->
+                    </div>
+                </div>
+            </div>
+            <!-- end: Slide 2 -->
+        </div>
+        <!--end: Inspiro Slider -->
+        <!-- WELCOME -->
+        <section id="welcome" class="p-b-0">
+            <div class="container">
+                <div class="heading-text heading-section text-center m-b-40" data-animate="fadeInUp">
+                    <h2>어서와 이런 서비스는 처음이지?</h2>
+                    <span class="lead">신선한 수선 서비스 노랑진수선시장</span>
+                </div>
+                <div class="row" data-animate="fadeInUp" style="text-align: center;">
+                    <div class="col-lg-12">
+                        <img class="img-fluid" src="images/Frame_3210.png" alt="Welcome Norangsusun" style="max-width: 85%;">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end: WELCOME -->
+        <!--Journey Map-->
+        <section id="welcome1" class="p-b-0">
+            <div class="container">
+                <div class="heading-text heading-section text-center m-b-40" data-animate="fadeInUp">
+                    <h2>Journey Map</h2>
+                    <span class="lead">수선의 과정을 자세히 살펴보자</span>
+                </div>
+                <div class="row" data-animate="fadeInUp">
+                    <div class="col-lg-12">
+                        <img class="img-fluid" src="images/journeymap.png" alt="Welcome Norangsusun">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end: Journey Map-->
+
+        <!-- WHAT WE DO -->
+        <section>
+            <div class="container">
+                <div class="heading-text heading-section">
+                    <h2>Interview</h2>
+                  <span class="lead">2030 주기적인 옷구매. 옷을 사고나서 바로 수선 진행. 치수를 알면 수선 경험이 적다.</span>
+                </div>
+                <div class="row">
+                <!-- Testimonials -->
+                <div class="carousel arrows-visibile testimonial testimonial-single testimonial-left" data-items="1">
+
+                    <!-- Testimonials item -->
+                    <div class="testimonial-item">
+                        <img src="images/interviewee2.png" alt="">
+                        <p>한달에 1~2번 옷구매.</p>
+                        <p>ZARA가 기장이 너무 길어서 항상 잘라야해요.</p>
+                        <p>사고나서 바로 바지 수선을 많이 진행합니다.</p>
+                        <span>오00</span>
+                        <span>33, 여, Product Designer</span>
+                    </div>
+                    <!-- end: Testimonials item-->
+
+                    <!-- Testimonials item -->
+                    <div class="testimonial-item">
+                        <img src="images/interviewee1.png" alt="">
+                        <p>계절마다 분기별 30만원 옷구매.</p>
+                        <p>어깨,허리, 허벅지 치수 다 알아서 수선 잘 안해요. 수선 귀찮아요.</p>
+                        <p>하지만 정장살때 무조건 수선 진행합니다. 사고나서 바로 진행.</p>
+                        <span>이00</span>
+                        <span>28, 남, Software Engineer</span>
+                    </div>
+                    <!-- end: Testimonials item-->
+
+                    <!-- Testimonials item -->
+                    <div class="testimonial-item">
+                        <img src="images/interviewee3.png" alt="">
+                        <p>한달에 2~3번 정도 옷구매.</p>
+                        <p>키가 작아서 바지살때 무조건 수선.</p>
+                        <p>사자마자 바지 수선 해야한다.</p>
+                        <span>김00</span>
+                        <span>30, 남, Software Engineer</span>
+                    </div>
+                    <!-- end: Testimonials item-->
+
+                </div>
+                <!-- end: Testimonials -->
+                </div>
+
+            </div>
+        </section>
+        <!-- END WHAT WE DO -->
+
+        <!-- SERVICES -->
+        <section class="background-grey">
+            <div class="container">
+                <div class="heading-text heading-section text-center">
+                    <h2>Service Solution</h2>
+                    <p>Service Define</p>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3" data-animate="fadeInUp" data-animate-delay="0">
+                        <div class="icon-box effect medium border small">
+                            <div class="icon">
+                                <a href="#"><i class="icon-target"></i></a>
+                            </div>
+                            <h3>Target</h3>
+                            <p>평소에 패션에 관심이 있는 2030세대</p>
+                            <p>구매한 옷을 체형에 맞게 잘 입고 싶은 유저</p>
+                            <p>바쁜 일정으로 수선 이용이 불편한 유저</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3" data-animate="fadeInUp" data-animate-delay="200">
+                        <div class="icon-box effect medium border small">
+                            <div class="icon">
+                                <a href="#"><i class="icon-help-circle"></i></a>
+                            </div>
+                            <h3>Pain Points</h3>
+                            <p>수선에 대한 정보가 명확 했으면 좋겠다</p>
+                            <p>수선집의 운영 정보 등을 알고 싶다</p>
+                            <p>수선된 제품을 가지러가기 귀찮다</p>
+                            <p>수선이 잘 못 되었을 때 처리가 곤란하다</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3" data-animate="fadeInUp" data-animate-delay="400">
+                        <div class="icon-box effect medium border small">
+                            <div class="icon">
+                                <a href="#"><i class="icon-alert-circle"></i></a>
+                            </div>
+                            <h3>Needs</h3>
+                            <p>수선집의 수선 정보, 운영정보에 대해 잘 알고 제대로 수선을 받고 싶다</p>
+                            <p>수선 이후 편하게 픽업하고 싶다</p>
+                            <p>잘못 되었을 경우 처리에 대한 방안이 있었으면 좋겠다</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3" data-animate="fadeInUp" data-animate-delay="600">
+                        <div class="icon-box effect medium border small">
+                            <div class="icon">
+                                <a href="#"><i class="icon-heart"></i></a>
+                            </div>
+                            <h3>Solution</h3>
+                            <p>수선 정보 정의서 제공</p>
+                            <p>수선집 운영 정보 제공</p>
+                            <p>배달 서비스 제공</p>
+                            <p>수선 후 처리 서비스 제공</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end: SERVICES -->
+
+
+                <section id="section3" class="p-t-120 p-b-120">
+                    <div class="container">
+                        <div class="col-lg-8 m-b-100  center">
+                            <div class="heading-text heading-section text-center">
+                                <h2>Concept</h2>
+                                <p>Insight #1, 2, 3</p>
+                            </div>
+                        </div>
+                        <hr class="space">
+                        <div class="row pricing-table">
+                            <div class="col-lg-4 col-md-12 col-12">
+                                <div class="plan">
+                                    <div class="plan-header">
+                                        <h4>수선 운영 영역</h4>
+                                    </div>
+                                    <div class="plan-list">
+                                        <ul>
+                                            <li>수선 완료 및 가지러 가는 경험에서 불편함을 느끼고 있다.</li>
+                                        </ul>
+                                        <div class="plan-button">
+                                            <a class="btn btn-light">사이드 메뉴</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-12 col-12">
+                                <div class="plan featured">
+                                    <div class="plan-header">
+                                        <h4>수선전 관리 영역</h4>
+                                    </div>
+                                    <div class="plan-list">
+                                        <ul>
+                                            <li>구매를 하고 수선을 동시에 진행한다.</li>
+                                            <li>수선에 관한 몇가지 정보를 원하고 있다.</li>
+                                        </ul>
+                                        <div class="plan-button">
+                                            <a class="btn btn-primary">중심 메뉴</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-12 col-12">
+                                <div class="plan">
+                                    <div class="plan-header">
+                                        <h4>수선 후 영역</h4>
+                                    </div>
+                                    <div class="plan-list">
+                                        <ul>
+                                            <li>잘못된 수선 이후의 처리방안이 필요하다.</li>
+                                        </ul>
+                                        <div class="plan-button">
+                                            <a class="btn btn-light">사이드 메뉴</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+        <section class="box-fancy section-fullwidth text-light p-b-0">
+            <div class="row">
+                <div style="background-color: rgb(241, 183, 50);" class="col-lg-4">
+                    <h1 class="text-lg text-uppercase">01.</h1>
+                    <h3>수선 픽업 배송 서비스</h3>
+                    <p class="custom-fontweight">픽업 장소 및 서비스 제공</p>
+                    <p class="custom-fontweight">배달 서비스 제공</p>
+                    <p class="custom-fontweight">수선 요청 상태 업데이트</p>
+                </div>
+
+                <div style="background-color: rgb(252, 196, 63);" class="col-lg-4">
+                    <h1 class="text-lg text-uppercase">02.</h1>
+                    <h3>수선 정보 관련 기능</h3>
+                    <p class="custom-fontweight">사진으로 사이즈 측정 제공</p>
+                    <p class="custom-fontweight">수선 요청 기능</p>
+                    <p class="custom-fontweight">수선집 목록 및 리뷰 안내</p>
+                    <p class="custom-fontweight">견적 및 예상 소요 시간</p>
+                    <p class="custom-fontweight">나의 치수 입력</p>
+                </div>
+
+                <div style="background-color: rgb(253, 206, 73);" class="col-lg-4">
+                    <h1 class="text-lg text-uppercase">03.</h1>
+                    <h3>수선 애프터 서비스</h3>
+                    <p class="custom-fontweight">재수선 요청 기능 제공</p>
+                    <p class="custom-fontweight">기부 서비스 제공</p>
+                    <p class="custom-fontweight">비슷한 사이즈 제품 공유</p>
+                </div>
+            </div>
+        </section>
+
+
+
+
+                <!-- Research -->
+                <section class="p-b-0">
+                    <div class="container">
+                        <div class="heading-text heading-section">
+                            <h2>Desk Research</h2>
+                            <span class="lead">문제점 확인, 참고 기술</span>
+                        </div>
+                    </div>
+                    <div class="portfolio">
+                        <!-- Portfolio Items -->
+                        <div id="portfolio" class="grid-layout portfolio-2-columns" data-margin="0">
+                            <!-- portfolio item -->
+                            <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
+                                <div class="portfolio-item-wrap">
+                                    <div class="portfolio-image">
+                                        <a href="#"><img src="images/techresearch1.png" alt=""></a>
+                                    </div>
+                                    <div class="portfolio-description">
+                                        <a title="https://www.aitimes.com/news/articleView.html?idxno=145616" data-lightbox="image" href="images/deskresearch1.PNG"><i class="icon-maximize"></i></a>
+                                        <a href="https://www.aitimes.com/news/articleView.html?idxno=145616" target="_blank"><i class="icon-link"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end: portfolio item -->
+                            <!-- portfolio item -->
+                            <div class="portfolio-item img-zoom ct-photography ct-media ct-branding ct-marketing ct-webdesign">
+                                <div class="portfolio-item-wrap">
+                                    <div class="portfolio-image">
+                                        <a href="#"><img src="images/needresearch2.png"></a>
+                                    </div>
+                                    <div class="portfolio-description" data-lightbox="gallery">
+                                        <a title="https://news.coupang.com/archives/3535/" data-lightbox="gallery-image" href="images/deskresearch2.PNG"><i class="icon-copy"></i></a>
+                                        <a title="https://news.coupang.com/archives/3535/" data-lightbox="gallery-image" href="images/deskresearch3.PNG" class="hidden"></a>
+                                        <a title="http://www.greenpostkorea.co.kr/news/articleView.html?idxno=118091" data-lightbox="gallery-image" href="images/deskresearch4.PNG" class="hidden"></a>
+                                        <a title="https://brunch.co.kr/@dailynews/1216" data-lightbox="gallery-image" href="images/deskresearch5.PNG" class="hidden"></a>
+                                        <a href="portfolio-page-grid-gallery.html"><i class="icon-link"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end: portfolio item -->
+                        </div>
+                        <!-- end: Portfolio Items -->
+                    </div>
+                </section>
+                <!-- end: Research -->
+
+        <!-- TEAM -->
+        <section class="background-grey">
+            <div class="container">
+                <div class="heading-text heading-section text-center">
+                    <h2>User Scenarios</h2>
+                    <p>노랑진수선시장 서비스를 이용한다면 이렇게 될거에요.</p>
+                </div>
+                <div class="row team-members">
+                    <div class="col-lg-3">
+                        <div class="team-member">
+                            <div class="team-image">
+                                <img src="images/scenario111.png">
+                            </div>
+                            <div class="team-desc">
+                                <h3>동네 수선 맛집</h3>
+                                <span>User Scenario 1</span>
+                                <p>Concept 1 Insight - 수선에 관한 몇가지 정보를 원하고 있다.</p>
+                                <p>Key features - 수선집 목록 및 리뷰 안내, 견적 및 예상 소요시간, 사진 업로드, 사이즈 입력 기능</p>
+                                <div class="align-center">
+                                    <button type="button" class="btn btn-primary btn-sm" data-bs-target="#modal-1" data-bs-toggle="modal">더보기</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="team-member">
+                            <div class="team-image">
+                                <img src="images/scenario113.png">
+                            </div>
+                            <div class="team-desc">
+                                <h3>수선 하이패스</h3>
+                                <span>User Scenario 1-1</span>
+                                <p>Concept 1 Insight - 구매를 했을 때 대부분 수선을 동시에 진행한다.</p>
+                                <p>Key features - 사진으로 사이즈 측정 제공, 수선 요청 기능, 나의 치수 입력, 3D 체형 프린팅</p>
+                                <div class="align-center">
+                                    <button type="button" class="btn btn-primary btn-sm" data-bs-target="#modal-2" data-bs-toggle="modal">더보기</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="team-member">
+                            <div class="team-image">
+                                <img src="images/scenario21.png">
+                            </div>
+                            <div class="team-desc">
+                                <h3>수선계의 배민</h3>
+                                <span>User Scenario 2</span>
+                                <p>Concept 2 Insight - 수선 완료 및 가지러 가는 경험에서 불편함을 느끼고 있다.</p>
+                                <p>Key features - 픽업 및 배송 서비스, 배민/요기요 연계 서비스 제공, 편의점 픽업 서비스 제공, 공유 수거함 제공</p>
+                                <div class="align-center">
+                                    <button type="button" class="btn btn-primary btn-sm" data-bs-target="#modal-3" data-bs-toggle="modal">더보기</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="team-member">
+                            <div class="team-image">
+                                <img src="images/scenario33.png">
+                            </div>
+                            <div class="team-desc">
+                                <h3>재수선 or 기부천사</h3>
+                                <span>User Scenario 3</span>
+                                <p>Concept 3 Insight - 잘못된 수선 방법에 대한 방안 필요.</p>
+                                <p>Key features - 재수선 요청 기능, 기부 기능, 비슷한 사이즈를 가진 사람에게 제품 공유 기능</p>
+                                <div class="align-center">
+                                    <button type="button" class="btn btn-primary btn-sm" data-bs-target="#modal-4" data-bs-toggle="modal">더보기</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end: TEAM -->
+
+
+        <section style="padding-top:200px; padding-bottom:200px;">
+          <div class="container">
+            <img alt="" src="images/whatif.png" style="width:100%;">
+          </div>
+        </section>
+
+
+        <!--Modal large -->
+                <div class="modal fade" id="modal-1" tabindex="-1" role="modal" aria-labelledby="modal-label-1" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h4 id="modal-label-1" class="modal-title">User Scenario 1 동네 근처에서 수선집을 확인</h4>
+                                <button aria-hidden="true" data-bs-dismiss="modal" class="btn-close" type="button">×</button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="row mb20">
+                                    <div class="col-md-12">
+                                        <p>동네 근처에서 수선집을 확인하는 시나리오 입니다.</p>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <!--<div class="col-md-6 xs-box">
+                                        <div class="box-services-a">
+                                            <h3>#1</h3>
+                                            <p>옷을 구매 했는데 옷이 잘 맞지 않아서 고민이다. 수선하여 내 몸에 잘 맞는 핏으로 잘 입고 싶다. </p>
+                                        </div>
+                                    </div> -->
+                                    <div class="col-md-4">
+                                        <div class="box-services-a">
+                                            <h3><img src="images/scenario111.png" class="img-fluid btn-rounded" alt=""></h3>
+                                            <p>옷을 구매 했는데 옷이 잘 맞지 않아서 고민이다. 수선하여 내 몸에 잘 맞는 핏으로 잘 입고 싶다.</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="box-services-a">
+                                            <h3><img src="images/scenario12.png" class="img-fluid btn-rounded" alt=""></h3>
+                                            <p>어플에 접속한 후 평가 및 리뷰를 확인하고 해당 지역의 전문 수선집 목록을 본다 리뷰를 확인하여 수선집을 선택하고 필요한 조정을 자세히 설명할 수 있는 기능으로 이동한다. 구체적인 내용(허리줄이기, 신체사이즈)을 포함해 바지의 현재 핏을 보여주는 사진을 올린다.</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="box-services-a">
+                                            <h3><img src="images/scenario13.png" class="img-fluid btn-rounded" alt=""></h3>
+                                            <p>수선집을 선택하고 해당 사진, 신체 측정 정보를 보내면 예상 수선비와 예상 완료시간이 표기된다. 원하는 조건의 수선집을 발견하고 선택한다.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button data-bs-dismiss="modal" class="btn btn-b" type="button">Close</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end: Modal large -->
+                <!--Modal large -->
+                        <div class="modal fade" id="modal-2" tabindex="-1" role="modal" aria-labelledby="modal-label-2" aria-hidden="true">
+                            <div class="modal-dialog modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h4 id="modal-label-2" class="modal-title">User Scenario 1-1 제품을 구매하는 곳에서 바로 수선</h4>
+                                        <button aria-hidden="true" data-bs-dismiss="modal" class="btn-close" type="button">×</button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row mb20">
+                                            <div class="col-md-12">
+                                                <p>오프라인 매장의 경우 사는 곳에서 대부분 직접 수선을 진행하고 있으므로, <br> 온라인 매장에서 제품을 사고 바로 수선하는 시나리오 입니다.</p>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                          <div class="col-md-4">
+                                              <h3><img src="images/scenario121.png" class="img-fluid btn-rounded" alt=""></h3>
+                                              <div class="box-services-a">
+                                                  <p>내 신체사이즈를 알고 있는데, 구매하고 싶은 옷의 바지 사이즈가 너무 길다. 딱 사고싶은 바지인데 수선집에 맡기러 가기는 귀찮다...</p>
+                                              </div>
+                                          </div>
+                                          <div class="col-md-4">
+                                              <div class="box-services-a">
+                                                  <h3><img src="images/scenario112.png" class="img-fluid btn-rounded" alt=""></h3>
+                                                  <p>옷 구매사이트와 연동되어 있는 링크를 클릭하여 어플에 접속한 후 수선집 목록을 확인 한 후에 해당 수선집과 연결하여 구매하려던 옷을 바로 수선집으로 보낸다.</p>
+                                              </div>
+                                          </div>
+                                          <div class="col-md-4">
+                                              <div class="box-services-a">
+                                                  <h3><img src="images/scenario113.png" class="img-fluid btn-rounded" alt=""></h3>
+                                                  <p>수선집들을 방문하여 맡길 일 없이 수선된 옷을 바로 받아볼 수 있어 시간낭비가 없어 편했다.</p>
+                                              </div>
+                                          </div>
+                                        </div>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button data-bs-dismiss="modal" class="btn btn-b" type="button">Close</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end: Modal large -->
+                        <!--Modal large -->
+                                <div class="modal fade" id="modal-3" tabindex="-1" role="modal" aria-labelledby="modal-label-3" aria-hidden="true">
+                                    <div class="modal-dialog modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h4 id="modal-label-3" class="modal-title">User Scenario 2 수선 픽업 배송</h4>
+                                                <button aria-hidden="true" data-bs-dismiss="modal" class="btn-close" type="button">×</button>
+                                            </div>
+                                            <div class="modal-body">
+                                                <div class="row mb20">
+                                                    <div class="col-md-12">
+                                                        <p>가지러가기 불편한 유저들의 불편함을 해소하는 시나리오입니다.</p>
+                                                    </div>
+                                                </div>
+                                                <div class="row">
+                                                  <div class="col-md-4 xs-box">
+                                                      <div class="box-services-a">
+                                                          <h3><img src="images/scenario21.png" class="img-fluid btn-rounded" alt=""></h3>
+                                                          <p>최근 일이 너무 많아져서 수선한 제품을 출퇴근 시간에 수선집에다가 맡기거나 픽업을 하러 가기가 어렵다.</p>
+                                                      </div>
+                                                  </div>
+                                                    <div class="col-md-4 xs-box">
+                                                        <div class="box-services-a">
+                                                            <h3><img src="images/scenario22.png" class="img-fluid btn-rounded" alt=""></h3>
+                                                            <p>앱에서 수선집에다가 수거 요청을 한 다음 근처 편의점이나 공유 박스에서 맡기고 픽업을 진행한다.</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-4">
+                                                        <div class="box-services-a">
+                                                            <h3><img src="images/scenario23.png" class="img-fluid btn-rounded" alt=""></h3>
+                                                            <p>일이 너무 많아서 공유박스나 편의점에 맡기기도 귀찮을때, 추가 요금을 내고 집앞까지 편하게 배민 수거/배달을 받았다. 가지러 가야하는 불편함이 해소되었다.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button data-bs-dismiss="modal" class="btn btn-b" type="button">Close</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                          <!-- end: Modal large -->
+                          <!--Modal large -->
+                          <div class="modal fade" id="modal-4" tabindex="-1" role="modal" aria-labelledby="modal-label-4" aria-hidden="true">
+                              <div class="modal-dialog modal-lg">
+                                  <div class="modal-content">
+                                      <div class="modal-header">
+                                          <h4 id="modal-label-4" class="modal-title">User Scenario 3 수선 애프터 서비스</h4>
+                                          <button aria-hidden="true" data-bs-dismiss="modal" class="btn-close" type="button">×</button>
+                                      </div>
+                                      <div class="modal-body">
+                                          <div class="row mb20">
+                                              <div class="col-md-12">
+                                                  <p>수선 이후 잘못된 수선의 불편함을 해소해주는 시나리오입니다.</p>
+                                              </div>
+                                          </div>
+                                          <div class="row">
+                                            <div class="col-md-4 xs-box">
+                                                <div class="box-services-a">
+                                                    <h3><img src="images/scenario31.png" class="img-fluid btn-rounded" alt=""></h3>
+                                                    <p>수선이 잘못 되어서 속상하다. 옷을 버릴수도 없고 어떻게 처리를 해야할지 모르겠다.</p>
+                                                </div>
+                                            </div>
+                                              <div class="col-md-4 xs-box">
+                                                  <div class="box-services-a">
+                                                      <h3><img src="images/scenario32.png" class="img-fluid btn-rounded" alt=""></h3>
+                                                      <p>앱 내역에 제시된 요구사항 정의가 제대로 됐는지 확인 후에 재수선 요청을 진행한다.</p>
+                                                  </div>
+                                              </div>
+                                              <div class="col-md-4">
+                                                  <div class="box-services-a">
+                                                      <h3><img src="images/scenario33.png" class="img-fluid btn-rounded" alt=""></h3>
+                                                      <p>재수선 요청이 번거로울 경우, 앱에 연동된 기부 선택을 통하여 소득공제 혜택을 받아 만족감을 얻는다. </p>
+                                                  </div>
+                                              </div>
+                                          </div>
+                                      </div>
+                                      <div class="modal-footer">
+                                          <button data-bs-dismiss="modal" class="btn btn-b" type="button">Close</button>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                          <!-- end: Modal large -->
+
+        <!-- BLOG -->
+        <section class="content background-grey">
+            <div class="container">
+                <div class="heading-text heading-section">
+                    <h2>Sort out the problem</h2>
+                    <span class="lead">노랑진수선시장은 이런 문제들을 해결했어요</span>
+                </div>
+                <div id="blog" class="grid-layout post-3-columns m-b-30" data-item="post-item">
+                    <!-- Post item-->
+                    <div class="post-item border">
+                        <div class="post-item-wrap">
+                            <div class="post-image">
+                                <a href="#">
+                                    <img alt="" src="images/solveimg1.png">
+                                </a>
+                                <span class="post-meta-category"><a href="">걱정멈춰!</a></span>
+                            </div>
+                            <div class="post-item-description">
+                                <h2>핏에 대한 걱정 줄이기</h2>
+                                <p>체형에 맞춘 수선 서비스를 바로 제공하여 옷을 어떻게 맞춰입을 지에 대한 걱정이 줄어든다.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end: Post item-->
+                    <!-- Post item-->
+                    <div class="post-item border">
+                        <div class="post-item-wrap">
+                            <div class="post-image">
+                                <a href="#">
+                                    <img alt="" src="images/solveimg2.png">
+                                </a>
+                                <span class="post-meta-category"><a href="">시간낭비멈춰!</a></span>
+                            </div>
+                            <div class="post-item-description">
+                                <h2>소중한 그대들의 시간 단축</h2>
+                                <p>수선집의 운영시간이 아니더라도 배송을 받을 수 있으며, 옷을 받고 맡기러 가는 번거로움을 줄였다.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end: Post item-->
+                    <!-- Post item-->
+                    <div class="post-item border">
+                        <div class="post-item-wrap">
+                            <div class="post-image">
+                                <a href="#">
+                                    <img alt="" src="images/solveimg3.png">
+                                </a>
+                                <span class="post-meta-category"><a href="">고민멈춰!</a></span>
+                            </div>
+                            <div class="post-item-description">
+                                <h2>구매에 유용한 정보 제공</h2>
+                                <p>나의 치수를 이제 미리 알고, 추후 옷 구매시 이를 이용 할 수 있다.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end: Post item-->
+                </div>
+            </div>
+        </section>
+        <!-- end: BLOG -->
+        <section>
+            <div class="container">
+                <div class="heading-text heading-section text-center">
+                    <h2>The plan moving forward</h2>
+                    <p>노랑진수선시장의 나아갈 방향</p>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="icon-box effect medium border center">
+                            <div class="icon">
+                                <a><i class="fa fa-archive"></i></a>
+                            </div>
+                            <h3>옷장 토탈 케어 시스템 구축</h3>
+                            <p>나의 옷장을 연결하여, 나는 이런 옷을 가지고 있고 이를 동네 수선/세탁집과 연결하여 관리까지 지속적으로 관리할 수 있는 옷 토탈케어 시스템 도입</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="icon-box effect medium border center">
+                            <div class="icon">
+                                <a><i class="fa fa-recycle"></i></a>
+                            </div>
+                            <h3>공유 순환 시스템 구축</h3>
+                            <p>나와 비슷한 치수의 동네 사람을 연결하여 나중에 서로 안입는 옷들을 공유할 수 있도록 지원한다.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="icon-box effect medium border center">
+                            <div class="icon">
+                                <a><i class="fa fa-thumbs-up"></i></a>
+                            </div>
+                            <h3>체형별 스타일 추천 시스템 구축</h3>
+                            <p>체형별로 적합한 스타일을 추천하여 실패없는 옷구매를 돕는다.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- CLIENTS -->
+        <section class="p-t-60">
+            <div class="container">
+                <div class="heading-text heading-section text-center">
+                    <h2>Clients</h2>
+                    <span class="lead">잠재 고객이 될 온라인 패션 업체들</span>
+                </div>
+                <div class="carousel client-logos" data-items="6" data-items-sm="4" data-items-xs="3" data-items-xxs="2" data-margin="20" data-arrows="false" data-autoplay="true" data-autoplay="3000" data-loop="true">
+                    <div>
+                        <a href="#"><img alt="" src="images/clients/1.png"> </a>
+                    </div>
+                    <div>
+                        <a href="#"><img alt="" src="images/clients/2.png"> </a>
+                    </div>
+                    <div>
+                        <a href="#"><img alt="" src="images/clients/3.png"> </a>
+                    </div>
+                    <div>
+                        <a href="#"><img alt="" src="images/clients/4.png"> </a>
+                    </div>
+                    <div>
+                        <a href="#"><img alt="" src="images/clients/5.png"> </a>
+                    </div>
+                    <div>
+                        <a href="#"><img alt="" src="images/clients/6.png"> </a>
+                    </div>
+                    <div>
+                        <a href="#"><img alt="" src="images/clients/7.png"> </a>
+                    </div>
+                    <div>
+                        <a href="#"><img alt="" src="images/clients/8.png"> </a>
+                    </div>
+                    <div>
+                        <a href="#"><img alt="" src="images/clients/9.png"> </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end: CLIENTS -->
+        <!-- Footer -->
+        <footer id="footer">
+            <div class="copyright-content">
+                <div class="container">
+                    <div class="copyright-text text-center">Made by Hyeseung :) <a> 승승장구 김혜승</a> </div>
+                </div>
+            </div>
+        </footer>
+        <!-- end: Footer -->
+    </div>
+    <!-- end: Body Inner -->
+    <!-- Scroll top -->
+    <a id="scrollTop"><i class="icon-chevron-up"></i><i class="icon-chevron-up"></i></a>
+    <!--Plugins-->
+    <script src="js/jquery.js"></script>
+    <script src="js/plugins.js"></script>
+    <!--Template functions-->
+    <script src="js/functions.js"></script>
+</body>
+
+</html>
